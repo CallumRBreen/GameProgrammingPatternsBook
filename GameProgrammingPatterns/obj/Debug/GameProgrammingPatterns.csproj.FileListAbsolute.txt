@@ -1,0 +1,6 @@
+c:\users\callum\documents\visual studio 2015\Projects\GameProgrammingPatterns\GameProgrammingPatterns\bin\Debug\GameProgrammingPatterns.exe.config
+c:\users\callum\documents\visual studio 2015\Projects\GameProgrammingPatterns\GameProgrammingPatterns\obj\Debug\GameProgrammingPatterns.csprojResolveAssemblyReference.cache
+c:\users\callum\documents\visual studio 2015\Projects\GameProgrammingPatterns\GameProgrammingPatterns\bin\Debug\GameProgrammingPatterns.exe
+c:\users\callum\documents\visual studio 2015\Projects\GameProgrammingPatterns\GameProgrammingPatterns\bin\Debug\GameProgrammingPatterns.pdb
+c:\users\callum\documents\visual studio 2015\Projects\GameProgrammingPatterns\GameProgrammingPatterns\obj\Debug\GameProgrammingPatterns.exe
+c:\users\callum\documents\visual studio 2015\Projects\GameProgrammingPatterns\GameProgrammingPatterns\obj\Debug\GameProgrammingPatterns.pdb
